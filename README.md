@@ -21,7 +21,7 @@ Clone o repositório:
 
 bash
 Copiar código
-git clone https://github.com/seuusuario/nome-do-repositorio.git
+git clone [https://github.com/seuusuario/nome-do-repositorio.git](https://github.com/p-pedroSantos/votoAutomaticoEdukio)
 cd nome-do-repositorio
 Instale as dependências do projeto:
 
