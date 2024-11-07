@@ -1,0 +1,2 @@
+# votoAutomaticoEdukio
+sistema votação edukio
